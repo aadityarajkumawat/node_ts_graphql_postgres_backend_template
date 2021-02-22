@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tsc -w",
+    "watch": "tsc -w",
     "dev": "nodemon dist/index.js"
   },
   "author": "",
